@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+langchain-text-splitters
